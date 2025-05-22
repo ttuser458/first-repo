@@ -1,2 +1,2 @@
 # first-repo
-This is mz first repository
+This is my first repository
